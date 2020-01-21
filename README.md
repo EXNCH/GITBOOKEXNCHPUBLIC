@@ -1,2 +1,2 @@
-# GITBOOKEXNCHPUBLIC
-Gitbook Public Github repository
+# Initial page
+
