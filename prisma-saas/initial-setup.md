@@ -1,4 +1,4 @@
-# Initial Setup
+# Initial Setup Prisma SaaS
 
 Wait until you get the Email from PAN.
 
@@ -13,4 +13,8 @@ Login: [https://apps.paloaltonetworks.com/apps](https://apps.paloaltonetworks.co
 ![](../.gitbook/assets/screenshot-2020-02-06-at-14.50.08.png)
 
 Wait until the Saas instance is active. 
+
+You can check the status on: [https://apps.paloaltonetworks.com/settings](https://apps.paloaltonetworks.com/settings)
+
+![](../.gitbook/assets/screenshot-2020-02-06-at-14.52.49.png)
 
