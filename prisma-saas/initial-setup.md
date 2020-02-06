@@ -8,7 +8,7 @@ Login: [https://apps.paloaltonetworks.com/apps](https://apps.paloaltonetworks.co
 
 ![](../.gitbook/assets/screenshot-2020-02-06-at-14.47.56.png)
 
-![](../.gitbook/assets/screenshot-2020-02-06-at-14.48.31.png)
+![](../.gitbook/assets/screenshot-2020-02-06-at-14.48.31%20%281%29.png)
 
 ![](../.gitbook/assets/screenshot-2020-02-06-at-14.50.08.png)
 
