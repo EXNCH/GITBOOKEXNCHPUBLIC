@@ -12,7 +12,7 @@ Login: [https://apps.paloaltonetworks.com/apps](https://apps.paloaltonetworks.co
 
 ![](../.gitbook/assets/screenshot-2020-02-06-at-14.50.08.png)
 
-Wait until the SaaS instance is active. This can take a couple minutes to hours.
+Wait until the SaaS instance is active. This can take a couple hours.
 
 You can check the status on: [https://apps.paloaltonetworks.com/settings](https://apps.paloaltonetworks.com/settings)
 
