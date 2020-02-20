@@ -26,3 +26,7 @@ You can check the status on: [https://apps.paloaltonetworks.com/settings](https:
 
 ![](../.gitbook/assets/screenshot-2020-02-06-at-15.01.51.png)
 
+![](../.gitbook/assets/screenshot-2020-02-20-at-10.06.05.png)
+
+Open Prisma SaaS. You have to login with the Account who got the fullfillment Email. Else you get an Error.
+
